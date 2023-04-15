@@ -11,15 +11,6 @@ src="https://img.shields.io/github/followers/bhavin7764?logo=github&style=for-th
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin7764&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin7764" /> </p>
 
 
-
-
-
-
-
-
-
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -35,4 +26,3 @@ src="https://img.shields.io/github/followers/bhavin7764?logo=github&style=for-th
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Bhavin Bairwa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
