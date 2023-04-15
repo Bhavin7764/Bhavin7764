@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [C Programming & HTML/CSS Project](http://a)
 * 🧠  I'm learning C/C++ with DSA
 * ⚡  Fun fact : I'm currently studying BCA
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <img
 src="https://img.shields.io/github/followers/bhavin7764?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin7764&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin7764" /> </p>
